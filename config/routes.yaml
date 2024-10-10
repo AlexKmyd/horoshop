@@ -1,0 +1,5 @@
+controllers:
+    resource:
+        path: ../src/Core/FacadeBundle/v1/Controller/
+        namespace: App\Core\FacadeBundle\v1\Controller
+    type: attribute
